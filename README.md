@@ -31,3 +31,6 @@ The course syllabus and schedule (as extracted from the course slides) can be se
 12|21.01.| Wrap-Up |     |23.01| Neural Style Transfer
 13|28.01| Written Exam |     |30.01| (Written Exam)
 
+
+Materials used:
+1. Deep Learning (Adaptive Computation and Machine Learning) Ian Goodfellow, Yoshua Bengio, Aaron Courville MIT Press, 2017 https://www.deeplearningbook.org
