@@ -34,5 +34,3 @@ The course syllabus and schedule (as extracted from the course slides) can be se
 
 Materials used:
 1. Deep Learning (Adaptive Computation and Machine Learning) Ian Goodfellow, Yoshua Bengio, Aaron Courville MIT Press, 2017 https://www.deeplearningbook.org
-
-2. 
