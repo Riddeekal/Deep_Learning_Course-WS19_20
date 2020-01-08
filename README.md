@@ -1,5 +1,5 @@
 # Deep_Learning_Course_WS19_20
-This repository contains all assignment submissions for the Deep Learning Course in the Winter Semester 2019/2020.
+This repository contains all tutorial lessons and assignment submissions for the Deep Learning Course in the Winter Semester 2019/2020.
 
 This course is a graduate course and is part of the electives of the Masters Program in Research in Computer and Systems Engineering (RCSE) MSc. Program at the Technische Universität Ilmenau (TU Ilmenau).
 
